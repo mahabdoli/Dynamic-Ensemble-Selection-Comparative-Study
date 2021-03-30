@@ -3,5 +3,5 @@ Automatic credit scoring, which assesses the probability of default by loan appl
 
 **Link to arXive: https://arxiv.org/abs/2010.08930v1**
 
-Codes will be added in the future. 
+Will be updated soon.
 
